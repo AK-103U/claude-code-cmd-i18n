@@ -1,0 +1,17 @@
+{
+  "name": "cmd-i18n",
+  "owner": {
+    "name": "AK-103U",
+    "url": "https://github.com/AK-103U"
+  },
+  "metadata": {
+    "description": "cmd-i18n：Claude Code 界面中文化 mod 的安装源"
+  },
+  "plugins": [
+    {
+      "name": "cmd-i18n",
+      "source": "./",
+      "description": "Claude Code 界面的显示层中文化（命令菜单、/config、命令输出、等待界面），模型看到的仍是英文原文"
+    }
+  ]
+}
